@@ -35,25 +35,25 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/JoshuaLopez2000/BladesOfTheFallen">Blades of the Fallen</a></h3>
       <p>A mobile action game built around directional attacks, parries, and escalating enemy waves, with a Chinese ink-painting visual style.</p>
       <p align="center"><img src="assets/projects/blades-of-the-fallen.gif" alt="Blades of the Fallen gameplay preview" width="220"></p>
       <sub>UNITY &nbsp;·&nbsp; C# &nbsp;·&nbsp; GAMEPLAY SYSTEMS</sub>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/JoshuaLopez2000/mangaARExperience">Manga AR Experience</a></h3>
       <p>A Flutter app that brings manga pages to life with Unity and Vuforia augmented reality.</p>
-      <p align="center">
-        <img src="assets/projects/manga-pick-series.gif" alt="Manga series selection preview" width="31%">
-        <img src="assets/projects/manga-pick-volume.gif" alt="Manga volume selection preview" width="31%">
-        <img src="assets/projects/manga-ar-preview.gif" alt="Manga augmented reality preview" width="31%">
-      </p>
+      <p align="center"><img src="assets/projects/manga-pick-series.gif" alt="Manga series selection preview" width="180"></p>
+      <p align="center"><img src="assets/projects/manga-pick-volume.gif" alt="Manga volume selection preview" width="180"></p>
+      <p align="center"><img src="assets/projects/manga-ar-preview.gif" alt="Manga augmented reality preview" width="180"></p>
       <sub>FLUTTER &nbsp;·&nbsp; UNITY &nbsp;·&nbsp; VUFORIA</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/JoshuaLopez2000/Portfolio">Personal Portfolio</a></h3>
       <p>A bilingual Flutter portfolio, built for the web and deployed on Cloudflare Workers. <a href="https://joshualopez.joshua-lopez-1fd.workers.dev/">View the live site</a>.</p>
       <sub>FLUTTER &nbsp;·&nbsp; DART &nbsp;·&nbsp; WEB</sub>
