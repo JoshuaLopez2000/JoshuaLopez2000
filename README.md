@@ -26,7 +26,7 @@
       <h2>At a glance</h2>
       <p><strong>01</strong> &nbsp; Mobile & web product development</p>
       <p><strong>02</strong> &nbsp; REST APIs, authentication & data</p>
-      <p><strong>03</strong> &nbsp; Unity & augmented reality</p>
+      <p><strong>03</strong> &nbsp; Unity, VR & augmented reality</p>
     </td>
   </tr>
 </table>
@@ -34,6 +34,13 @@
 ## Selected work
 
 <table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/JoshuaLopez2000/Forklift-VR-Simulator">VR Forklift Training Simulator</a></h3>
+      <p>End-to-end development of an interactive VR forklift operator training simulator built in collaboration with <strong>Virtual Mind Studio (VMS)</strong>, featuring pre-operation inspection, guided driving, load-handling, and timed warehouse modules, in-cabin VR controls, optional USB wheel/pedals support, and a bilingual (ES/EN) interface. <em>(Portfolio showcase; IP belongs to VMS.)</em></p>
+      <sub>UNITY &nbsp;·&nbsp; C# &nbsp;·&nbsp; VIRTUAL REALITY &nbsp;·&nbsp; SIMULATION</sub>
+    </td>
+  </tr>
   <tr>
     <td valign="top">
       <h3><a href="https://github.com/JoshuaLopez2000/BladesOfTheFallen">Blades of the Fallen</a></h3>
@@ -67,7 +74,7 @@
   <strong>Mobile</strong> &nbsp; Flutter · Dart · Android · iOS · Web<br>
   <strong>Backend</strong> &nbsp; Go · Python · Node.js · REST APIs · JWT<br>
   <strong>Data & delivery</strong> &nbsp; PostgreSQL · MySQL · Docker · Git · CI/CD<br>
-  <strong>Interactive</strong> &nbsp; Unity · C# · Vuforia
+  <strong>Interactive</strong> &nbsp; Unity · C# · VR · Vuforia
 </p>
 
 ---
