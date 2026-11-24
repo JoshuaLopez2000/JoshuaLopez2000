@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://joshualopez.joshua-lopez-1fd.workers.dev/">PORTFOLIO</a>
+  <a href="https://portfolio.joshua-lopez-nava-dev.workers.dev/">PORTFOLIO</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/joshua-ivan-lopez-nava-77311721a">LINKEDIN</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -62,7 +62,8 @@
   <tr>
     <td valign="top">
       <h3><a href="https://github.com/JoshuaLopez2000/Portfolio">Personal Portfolio</a></h3>
-      <p>A bilingual Flutter portfolio, built for the web and deployed on Cloudflare Workers. <a href="https://joshualopez.joshua-lopez-1fd.workers.dev/">View the live site</a>.</p>
+      <p>A bilingual Flutter portfolio, built for the web and deployed on Cloudflare Workers. <a href="https://portfolio.joshua-lopez-nava-dev.workers.dev/">View the live site</a>.</p>
+      <p align="center"><a href="https://portfolio.joshua-lopez-nava-dev.workers.dev/"><img src="assets/projects/portfolio-preview.png" alt="Personal Portfolio preview" width="680"></a></p>
       <sub>FLUTTER &nbsp;·&nbsp; DART &nbsp;·&nbsp; WEB</sub>
     </td>
   </tr>
