@@ -40,15 +40,7 @@
       <p>End-to-end development of an interactive VR forklift operator training simulator built in collaboration with <strong>Virtual Mind Studio (VMS)</strong>, featuring pre-operation inspection, guided driving, load-handling, and timed warehouse modules, in-cabin VR controls, optional USB wheel/pedals support, and a bilingual (ES/EN) interface. <em>(Portfolio showcase; IP belongs to VMS.)</em></p>
       <p align="center">
         <img src="assets/projects/forklift/forklift_main_menu.gif" alt="Main menu and VR module selection" width="48%">
-        <img src="assets/projects/forklift/forklift_exterior_inspection.gif" alt="Exterior pre-operation inspection" width="48%">
-      </p>
-      <p align="center">
-        <img src="assets/projects/forklift/forklift_interior_inspection.gif" alt="In-cabin VR controls inspection" width="48%">
-        <img src="assets/projects/forklift/forklift_inspection_evaluation.png" alt="Pre-operation inspection evaluation" width="48%">
-      </p>
-      <p align="center">
         <img src="assets/projects/forklift/forklift_driving.gif" alt="Guided warehouse driving and parking" width="48%">
-        <img src="assets/projects/forklift/forklift_load_handling.gif" alt="Load handling and pallet placement" width="48%">
       </p>
       <p align="center">
         <img src="assets/projects/forklift/forklift_session_results.png" alt="Consolidated session results summary" width="68%">
