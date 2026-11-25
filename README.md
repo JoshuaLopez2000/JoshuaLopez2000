@@ -36,6 +36,21 @@
 <table>
   <tr>
     <td valign="top">
+      <h3><a href="https://github.com/JoshuaLopez2000/vaquita-mx">Vaquita MX</a></h3>
+      <p>An offline-first group-expense platform for Mexico built end to end with Flutter, Go, and PostgreSQL. Supports deterministic integer-centavo allocation across equal, percentage, exact, and opt-in salary splits, immutable ledger entries with compensating reversals, SQLite offline outbox sync, rotating JWT sessions, and an idempotent payment-provider abstraction designed for Banco de México's CoDi collection workflow.</p>
+      <p align="center">
+        <img src="assets/projects/vaquita-mx/dashboard.png" alt="Vaquita MX dashboard and net group balances" width="48%">
+        <img src="assets/projects/vaquita-mx/group_detail.png" alt="Shared group detail with salary splits and bilateral balances" width="48%">
+      </p>
+      <p align="center">
+        <img src="assets/projects/vaquita-mx/settlement_request.png" alt="CoDi-ready simulated payment request and receipt confirmation" width="48%">
+        <img src="assets/projects/vaquita-mx/movements_reversals.png" alt="Immutable ledger feed with compensating reversals and settlements" width="48%">
+      </p>
+      <sub>FLUTTER &nbsp;·&nbsp; DART &nbsp;·&nbsp; GO &nbsp;·&nbsp; POSTGRESQL &nbsp;·&nbsp; SQLITE</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/JoshuaLopez2000/Forklift-VR-Simulator">VR Forklift Training Simulator</a></h3>
       <p>End-to-end development of an interactive VR forklift operator training simulator built in collaboration with <strong>Virtual Mind Studio (VMS)</strong>, featuring pre-operation inspection, guided driving, load-handling, and timed warehouse modules, in-cabin VR controls, optional USB wheel/pedals support, and a bilingual (ES/EN) interface. <em>(Portfolio showcase; IP belongs to VMS.)</em></p>
       <p align="center">
